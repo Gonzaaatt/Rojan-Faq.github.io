@@ -11,7 +11,10 @@ header .bg{
     background-position: center;
 }
 
-
+.collapsible-header{
+    font-size: 20px;
+    font-weight: 600;
+}
 
 .faq{
     width: 100%;
